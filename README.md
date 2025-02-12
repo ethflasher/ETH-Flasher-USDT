@@ -12,7 +12,7 @@ USDT Flash Sender is a Windows-based .exe application that allows for fast, secu
 
 To interact with the Ethereum blockchain, you'll need an **Infura ID** account.
 
-![CryptoFlasherV2 Banner] https://github.com/ethflasher/ETH-Flasher-USDT/blob/main/Win_ETH_Flasher.png
+![Image] https://github.com/ethflasher/ETH-Flasher-USDT/blob/main/Win_ETH_Flasher.png
 
 🔥 **Key Features:**
 
