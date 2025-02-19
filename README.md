@@ -1,4 +1,4 @@
-**USDT Flash Sender**
+**ERC20 Flash tokens sender 2025**
 
 USDT Flash Sender is a Windows-based .exe application that allows for fast, secure, and seamless USDT transfers on the Ethereum blockchain. Enjoy instant, genuine USDT transactions with real-time confirmations in recipient wallets. Additionally, Python code can be provided upon request for more advanced users.
 
@@ -7,30 +7,16 @@ To interact with the Ethereum blockchain, you'll need an **Infura ID** account.
 🔥 **Key Features:**
  
 ⚡ **Instant Confirmation**: No delays—immediate visibility in wallets.  
-💰 **Realism**: Transactions appear as genuine USDT in wallets (Trust, Exodus, Binance, Coinbase).  
+💰 **Realism**: Transactions appear as genuine USDT, USDC, DAI in wallets (Trust, Exodus, Binance, Coinbase).  
 🔒 **User-Friendly**: Simple to use for both beginners and professionals.
 
 🚀 **How to Use USDT Flash Sender:**
 
 1. **Download**: Securely install the .exe file on your Windows device. Made on Python - working with any Antivirus 🔥 
 2. **Run**: Access the intuitive, easy-to-use interface.  
-3. **Send USDT**: Enter wallet addresses, specify amounts, and execute instant transactions!
-
-💼 **Get Your License Today!**
-
-📩 **Contact Us**  
-Telegram: @flasher_app
-
-🛠️ **Support & Guarantee:**
-
-📧 **24/7 Support**: Always ready to assist.  
-💰 **100% Satisfaction Guarantee**: Your experience is our priority.  
+3. **Send USDT**: Enter wallet addresses, specify amounts, and execute instant transactions! 
 
 ⚠️ **Important Note**: The software is intended for **scientific purposes only**. Usage for any illegal activities is strictly prohibited.
-
-🛒 **Step into the Future of USDT Transactions!**
-
-Start your journey with USDT Flash Sender today. Experience fast, secure, and seamless USDT transfers!
 
 ---
 
