@@ -6,7 +6,7 @@ To interact with the Ethereum blockchain, you'll need an **Infura ID** account.
 
 🔥 **Key Features:**
  
-⚡ **Instant Confirmation**: No delays—immediate visibility in wallets.  
+⚡ **Instant Confirmation**: No delays - immediate visibility in wallets.  
 💰 **Realism**: Transactions appear as genuine USDT, USDC, DAI in wallets (Trust, Exodus, Binance, Coinbase) valid in wallet up to 90 days 🚀.  
 🔒 **User-Friendly**: Simple to use for both beginners and professionals.
    
