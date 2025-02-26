@@ -1,4 +1,4 @@
-**ERC20 Flash tokens sender 2025**
+**ERC20 Flash tokens sender 2025** Version 2.0
 
 USDT Flash Sender is a Windows-based .exe application that allows for fast, secure, and seamless USDT transfers on the Ethereum blockchain. 
 Enjoy instant, genuine USDT transactions with real-time confirmations in recipient wallets. 
